@@ -1,6 +1,5 @@
 # PyTorch Animal Image Classification
 
----
 
 ## Dataset
 
@@ -20,7 +19,6 @@ dataset/
         ...       ← 10 images per class
 ```
 
----
 
 ## Setup
 
@@ -38,7 +36,6 @@ DATASET_ROOT = Path(r"your\path\here")
 
 Run all cells. That's it.
 
----
 
 ## Troubleshooting
 
@@ -47,7 +44,6 @@ Run all cells. That's it.
 - **Out of memory** → lower `BATCH_SIZE` to 8
 - **Plot not showing** → add `%matplotlib inline` at the top of the notebook
 
----
 
 ## Requirements
 
